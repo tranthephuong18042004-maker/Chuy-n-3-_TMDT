@@ -156,13 +156,3 @@ streamlit run dashboard.py
 * Xuất báo cáo PDF tự động
 
 ---
-
-## 👨‍💻 Tác giả
-
-* Trần Thế Phương
-
----
-
-## ⭐ Ghi chú
-
-Dự án phục vụ mục đích học tập và nghiên cứu môn **Phân tích dữ liệu TMĐT**
