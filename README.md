@@ -170,8 +170,6 @@ ReportLab → Báo cáo PDF
 
 ## 🧹 1. Làm sạch dữ liệu
 
-## 🧹 Data Cleaning – Giải thích chi tiết
-
 ### 📄 File: `clean.py`
 
 ### 🎯 Mục tiêu
@@ -348,8 +346,6 @@ Quá trình Data Cleaning đã:
 ---
 
 ## 📊 2. Phân tích dữ liệu
-
-## 📊 Data Analysis – Giải thích chi tiết
 
 ### 📄 File: `analysis.py`
 
@@ -590,8 +586,6 @@ Data Cleaning → EDA → Visualization → Modeling → Evaluation
 ---
 
 ## 📈 3. Dashboard (Giao diện)
-
-## 📊 Dashboard – Giải thích chi tiết
 
 ### 📄 File: `dashboard.py`
 
