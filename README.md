@@ -27,10 +27,10 @@ Chuyen de 3_TMDT/
 ---
 📂 Dataset
 Nguồn: Kaggle (Superstore Dataset)
-Số lượng bản ghi ban đầu: 9994 dòng
-Số lượng sau khi làm sạch: 9994 dòng
-Số dòng bị loại bỏ: 0 dòng
-Tỷ lệ dữ liệu giữ lại: 100%
+* Số lượng bản ghi ban đầu: 9994 dòng
+* Số lượng sau khi làm sạch: 9994 dòng
+* Số dòng bị loại bỏ: 0 dòng
+* Tỷ lệ dữ liệu giữ lại: 100%
 
 👉 Nhận xét:
 Dataset có chất lượng tốt, không có dữ liệu thiếu hoặc trùng lặp đáng kể, phù hợp để phân tích trực tiếp.
