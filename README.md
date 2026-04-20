@@ -35,16 +35,6 @@ Chuyen de 3/
 │
 └── README.md # Mô tả dự án
 ```
-### GIẢI 
-🔹 dữ liệu/
-Chứa file CSV
-Phân biệt rõ raw vs clean
-🔹 hình ảnh/
-Lưu toàn bộ biểu đồ
-Dùng cho báo cáo + PDF
-🔹 báo cáo/
-File PDF export từ dashboard
-
 ---
 📂 Dataset
 Nguồn: Kaggle (Superstore Dataset)
