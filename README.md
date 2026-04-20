@@ -300,25 +300,32 @@ Dataset cuối: superstore_final.csv
 
 Order ID	Order Date	Product Name	Region	Sales	Year	Month
 📊 Thống kê sau khi làm sạch
-Chỉ số	Giá trị
-Số dòng ban đầu	9,994
-Số dòng sau clean	9,994
-Số dòng bị loại bỏ	0
-Tỷ lệ giữ lại	100%
+| Chỉ số               | Giá trị |
+| -------------------- | ------- |
+| Số dòng ban đầu      | 9,994   |
+| Số dòng sau làm sạch | 9,994   |
+| Số dòng bị loại bỏ   | 0       |
+| Tỷ lệ giữ lại        | 100%    |
+
 🧩 Số lượng cột
-Trạng thái	Số cột
-Ban đầu	5
-Sau clean	7
-Tăng thêm	+2
+| Trạng thái | Số cột |
+| ---------- | ------ |
+| Ban đầu    | 5      |
+| Sau clean  | 7      |
+| Tăng thêm  | +2     |
+
 💡 Ý nghĩa các cột mới
 Cột	Vai trò
 Year	Lọc dữ liệu theo năm
 Month	Phân tích xu hướng theo tháng
 🎯 Tổng kết
-Dữ liệu ban đầu: 9,994 dòng
-Dữ liệu sau clean: 9,994 dòng
-Dữ liệu bị loại bỏ: 0 dòng
-Số cột: 5 → 7
+| Nội dung               | Giá trị    |
+| ---------------------- | ---------- |
+| Tổng dữ liệu ban đầu   | 9,994 dòng |
+| Tổng dữ liệu sau clean | 9,994 dòng |
+| Dữ liệu bị loại bỏ     | 0 dòng     |
+| Số cột                 | 5 → 7      |
+
 🏆 Nhận xét
 Dataset có chất lượng tốt, ít lỗi
 Quy trình làm sạch giúp đảm bảo dữ liệu đáng tin cậy
